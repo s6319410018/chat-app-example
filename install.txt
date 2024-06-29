@@ -1,0 +1,17 @@
+npm install express cors mongoose jsonwebtoken cookie-parser dotenv bcryptjs
+s6319410018 ,Wa8RJiP7FNi9LOOs
+
+npx create-react-app client
+npm install -D tailwindcss
+npx tailwindcss init
+npm run start
+npm i react-router-dom
+npm i react-icons --save
+npm i react-hot-toast
+npm install @reduxjs/toolkit react-redux
+npm install react-redux
+
+npm i axios
+npm i sochet.io //server
+npm i socket.io-client  //client
+npm i moment --save
